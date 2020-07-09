@@ -1,0 +1,18 @@
+:root{
+   --mainBlue: #2a2a72;
+   --lightBlue: #009ffd;
+   --mainWhite: #f3f3f3;
+   --mainDark: #232528;
+   --mainYellow: #ffa400; 
+}
+
+body{
+  font-family: monaco, Consolas, "Lucida Console", monospace !important;
+  background: var(--mainWhite) !important;
+  color: var(--mainDark);
+}
+
+.text-title{
+  font-family: 'Courier New', Courier, monospace;
+  letter-spacing: 0.2rem;
+}
